@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .button{
+  border-radius: 20px;
+  background-color: gold;
+  color: black;
+
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+} */
