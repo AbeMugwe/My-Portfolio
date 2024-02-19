@@ -12,13 +12,8 @@ const Footer=()=>{
                 <div>
                     <h3>Socials</h3>
                     <h4>@itmustbeabe</h4>
-                    
-                    
-
                 </div>
-
             </footer>
-            
         </section>
     )
 }
