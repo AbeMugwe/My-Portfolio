@@ -1,7 +1,9 @@
 import Button from "../Button"
 import Image from '../../assets/logo.png'
+import {Link} from "react-router-dom"
 
 import './nav.css'
+
 
 
 const NavBar=()=>{
@@ -12,10 +14,10 @@ const NavBar=()=>{
             </div>
 
             <div className="NavText">
-                <a href="">Me</a>
-                <a href="">About</a>
-                <a href="">Skills</a>
-                <a href="">Projects</a>
+                <Link to="/">Me</Link>
+                <Link to="/about">About</Link>
+                <Link to="/projects">Projects</Link>
+                <Link to="/contacts">Contact Me</Link>
             </div>
 
             <div>
